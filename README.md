@@ -98,6 +98,14 @@ Fenrir 本身不生成厂商签名、不伪造 Google 证书，也不把普通�
 - [加入 Telegram 频道](https://t.me/keybox_playintegrityfix)（频道：@keybox_playintegrityfix）
 - 该频道用于相关技术讨论和经验交流，不承诺提供受限漏洞材料、真实密钥或设备提取服务。
 
+### 微信技术交流群
+
+群聊名称：Google Play Integrity 研究。请使用微信扫描下方二维码加入：
+
+![Google Play Integrity 研究微信群二维码](assets/community/wechat-group-google-play-integrity.png)
+
+该二维码在 7 天内有效（截至 10 月 23 日）；二维码失效后，重新进入页面获取更新后的二维码。
+
 ### 微信赞赏
 
 ![微信赞赏二维码](assets/donations/wechat.jpg)

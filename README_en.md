@@ -96,6 +96,14 @@ If this technical archive is useful to your research, you are welcome to use the
 - [Join the Telegram channel](https://t.me/keybox_playintegrityfix) (channel: @keybox_playintegrityfix)
 - The channel is for related technical discussion and experience sharing. It does not promise restricted vulnerability material, real keys, or device-extraction services.
 
+### WeChat technical discussion group
+
+Group name: Google Play Integrity Research. Scan the QR code below with WeChat to join:
+
+![Google Play Integrity Research WeChat group QR code](assets/community/wechat-group-google-play-integrity.png)
+
+This QR code is valid for seven days, until October 23. When it expires, revisit this page to obtain an updated QR code.
+
 ### WeChat support
 
 ![WeChat support QR](assets/donations/wechat.jpg)
