@@ -85,6 +85,49 @@ Fenrir 本身不生成厂商签名、不伪造 Google 证书，也不把普通�
 
 如果这份技术整理对你的研究有帮助，欢迎通过合适的渠道捐款支持后续维护与研究。
 
+## 捐款与支持
+
+如果这份技术整理对你的研究有帮助，欢迎通过以下公开渠道捐款支持后续维护与研究。捐款不会换取受限漏洞材料、真实密钥或设备提取服务。转账前请确认网络和资产类型；区块链转账通常不可逆，建议先进行小额测试。
+
+### 平台捐款
+
+- [Ko-fi 捐款页面](https://ko-fi.com/sanyegungnir)
+
+### Telegram 技术讨论
+
+- [加入 Telegram 频道](https://t.me/keybox_playintegrityfix)（频道：@keybox_playintegrityfix）
+- 该频道用于相关技术讨论和经验交流，不承诺提供受限漏洞材料、真实密钥或设备提取服务。
+
+### 微信赞赏
+
+![微信赞赏二维码](assets/donations/wechat.jpg)
+
+单次赞赏最高 200 元，具体以微信页面实时规则为准。
+
+### 虚拟币捐款
+
+| 网络 | 地址 | 资产说明 |
+|---|---|---|
+| Ethereum Mainnet | `0x04989a778AC28A60Cc5eF68DCaea379633E0189e` | ETH / ERC-20：以实际收款资产为准 |
+| Arbitrum | `0x04989a778AC28A60Cc5eF68DCaea379633E0189e` | Arbitrum One 上的 ETH / ERC-20，请勿选择错误网络 |
+| TRON Mainnet | `TScTH4VifRKja3NSvaWcPXmb99y3JjgYQ3` | TRX / TRC-20：以实际收款资产为准 |
+| Bitcoin Mainnet | `bc1q886gc0mt0w9rre3zjct7vvvyrryerm7p2k9nfc` | BTC，原生 SegWit `bc1q` 地址 |
+
+| 网络 | 二维码 |
+|---|---|
+| Ethereum Mainnet | ![Ethereum donation QR](assets/donations/ethereum.png) |
+| Arbitrum | ![Arbitrum donation QR](assets/donations/arbitrum.png) |
+| TRON Mainnet | ![TRON donation QR](assets/donations/tron.png) |
+| Bitcoin Mainnet | ![Bitcoin donation QR](assets/donations/bitcoin.png) |
+
+重要提示：
+
+- Ethereum 和 Arbitrum 使用相同地址字符串，但不是同一条网络，转账时必须选择正确网络。
+- TRON 地址只能在 TRON 网络使用；不要把 ERC-20、BEP-20 或其他网络资产直接发送到该地址。
+- Bitcoin 地址只接收 BTC，不要发送其他链上的代币。
+- 虚拟币地址公开可见，链上交易通常可追踪，因此这不是完全匿名的收款方式。
+- 项目不会通过私信索要助记词、私钥、验证码或额外手续费。
+
 ## 结果验收门禁
 
 以下是来源记录中应检查的验收条件和公开复核门禁，不代表本公开副本已经完成人工独立验收。每一项提取结果都应按独立结果类别检查，不能把日志、证书、模拟数据或单次成功启动当成最终结果。至少检查以下项目：

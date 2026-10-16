@@ -83,6 +83,49 @@ Fenrir does not create vendor signatures, forge Google certificates, or turn ord
 
 If this technical archive is useful to your research, donations through an appropriate channel are welcome to support future maintenance and research.
 
+## Donations and support
+
+If this technical archive is useful to your research, you are welcome to use the public channels below to support future maintenance and research. Donations do not provide restricted vulnerability material, real keys, or device-extraction services. Confirm the network and asset type before sending; blockchain transfers are usually irreversible, so a small test transfer is recommended.
+
+### Platform donation
+
+- [Ko-fi donation page](https://ko-fi.com/sanyegungnir)
+
+### Telegram technical discussion
+
+- [Join the Telegram channel](https://t.me/keybox_playintegrityfix) (channel: @keybox_playintegrityfix)
+- The channel is for related technical discussion and experience sharing. It does not promise restricted vulnerability material, real keys, or device-extraction services.
+
+### WeChat support
+
+![WeChat support QR](assets/donations/wechat.jpg)
+
+The maximum single appreciation is 200 CNY, subject to the rules shown by WeChat at the time of payment.
+
+### Cryptocurrency donations
+
+| Network | Address | Asset note |
+|---|---|---|
+| Ethereum Mainnet | `0x04989a778AC28A60Cc5eF68DCaea379633E0189e` | ETH / ERC-20; confirm the receiving asset |
+| Arbitrum | `0x04989a778AC28A60Cc5eF68DCaea379633E0189e` | ETH / ERC-20 on Arbitrum One; select the correct network |
+| TRON Mainnet | `TScTH4VifRKja3NSvaWcPXmb99y3JjgYQ3` | TRX / TRC-20; confirm the receiving asset |
+| Bitcoin Mainnet | `bc1q886gc0mt0w9rre3zjct7vvvyrryerm7p2k9nfc` | BTC, native SegWit `bc1q` address |
+
+| Network | QR code |
+|---|---|
+| Ethereum Mainnet | ![Ethereum donation QR](assets/donations/ethereum.png) |
+| Arbitrum | ![Arbitrum donation QR](assets/donations/arbitrum.png) |
+| TRON Mainnet | ![TRON donation QR](assets/donations/tron.png) |
+| Bitcoin Mainnet | ![Bitcoin donation QR](assets/donations/bitcoin.png) |
+
+Important notes:
+
+- Ethereum and Arbitrum use the same address string but are different networks; select the correct network when sending.
+- Use the TRON address only on the TRON network; do not send ERC-20, BEP-20, or other network assets to it.
+- The Bitcoin address accepts BTC only; do not send tokens from another chain.
+- Cryptocurrency addresses are public and on-chain transfers are generally traceable, so this is not fully anonymous.
+- The project will never ask for a seed phrase, private key, verification code, or extra fee by private message.
+
 ## Result acceptance gates
 
 The following are acceptance conditions and public-review gates that the source records say should be checked; they do not mean that the public copy has been independently verified. Each extraction result should be checked as an independent result class. A log, certificate, simulated value, or one successful boot is not treated as the final result. At minimum, check:
